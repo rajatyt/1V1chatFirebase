@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352552630066",
+    "project_id": "chatkotlin-3a7c2",
+    "storage_bucket": "chatkotlin-3a7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352552630066:android:a33963a2b891042a04c92b",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352552630066-l38dc6ad56gtjb75bftlf182cev0l4of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JV_gfj9YMJwg8_0VcLrFdqju4mKuAqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352552630066-l38dc6ad56gtjb75bftlf182cev0l4of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
